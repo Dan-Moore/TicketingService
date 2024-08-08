@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\data\\ticketingservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\data\\ticketingservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\models\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\models\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\ticketingservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\ticketingservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\ticketingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\ticketingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\ticketingservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\ticketingservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|c:\\users\\1g9376897\\source\\repos\\ticketingservice\\ticketingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D4066A7-88CF-495E-8673-3D895B73D282}|TicketingService\\TicketingService.csproj|solutionrelative:ticketingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\User.cs",
+              "RelativeToolTip": "TicketingService\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:17:41.036Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TicketingService\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:12:39.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\README.md",
+              "RelativeDocumentMoniker": "TicketingService\\README.md",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\README.md",
+              "RelativeToolTip": "TicketingService\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-02T12:47:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Label.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\Label.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Models\\Label.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\Label.cs",
+              "RelativeToolTip": "TicketingService\\Models\\Label.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:08:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Program.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Program.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Program.cs",
+              "RelativeToolTip": "TicketingService\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:41:16.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-31T13:40:57.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketingServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Data\\TicketingServiceContext.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Data\\TicketingServiceContext.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Data\\TicketingServiceContext.cs",
+              "RelativeToolTip": "TicketingService\\Data\\TicketingServiceContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:26:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\Ticket.cs",
+              "RelativeToolTip": "TicketingService\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:46:32.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TicketingService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\appsettings.Development.json",
+              "RelativeToolTip": "TicketingService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T13:40:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Models\\Comments.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Models\\Comments.cs",
+              "RelativeToolTip": "TicketingService\\Models\\Comments.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:56:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketingService.http",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\TicketingService.http",
+              "RelativeDocumentMoniker": "TicketingService\\TicketingService.http",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\TicketingService.http",
+              "RelativeToolTip": "TicketingService\\TicketingService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-31T15:12:00.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\appsettings.json",
+              "RelativeToolTip": "TicketingService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T20:28:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TicketingService\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TicketingService\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:15:12.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketingService",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\TicketingService.csproj",
+              "RelativeDocumentMoniker": "TicketingService\\TicketingService.csproj",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\TicketingService.csproj",
+              "RelativeToolTip": "TicketingService\\TicketingService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:57:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketingService.csproj",
+              "DocumentMoniker": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\TicketingService.csproj",
+              "RelativeDocumentMoniker": "TicketingService\\TicketingService.csproj",
+              "ToolTip": "C:\\Users\\1G9376897\\source\\repos\\TicketingService\\TicketingService\\TicketingService.csproj",
+              "RelativeToolTip": "TicketingService\\TicketingService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:16:55.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

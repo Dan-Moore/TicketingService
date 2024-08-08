@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FMfBwmZLIiQCfMPY9+bPA6muYt/TToBS/ZZsT1SNPgs=",
+  "Source": "TicketingService",
+  "BasePath": "_content/TicketingService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
