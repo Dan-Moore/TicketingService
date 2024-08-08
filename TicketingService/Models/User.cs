@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TicketingService.Models
 {
@@ -8,10 +9,10 @@ namespace TicketingService.Models
         [Column("id")]
         public int Id { get; set; }
 
-        [Column("firstname")]
+        [Column("first_name")]
         public string firstName { get; set; }
 
-        [Column("lastname")]
+        [Column("last_name")]
         public string lastName { get; set; }
 
         [Column("email")]
@@ -19,5 +20,11 @@ namespace TicketingService.Models
 
         [Column("slack")]
         public string slack { get; set; }
+
+        [Column("created")]
+        public DateTime created { get; set; }
+
+        [Column("updated")]
+        public DateTime updated { get; set; }
     }
 }

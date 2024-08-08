@@ -1,6 +1,6 @@
 @TicketingService_HostAddress = http://localhost:5245
 
-GET {{TicketingService_HostAddress}}/weatherforecast/
+GET {{TicketingService_HostAddress}}/ts/
 Accept: application/json
 
 ###
